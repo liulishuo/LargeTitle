@@ -39,6 +39,10 @@
     NSLog(@"%s",__func__);
 }
 
+- (void)scrollViewDidScroll:(UIScrollView *)scrollView {
+    [super scrollViewDidScroll:scrollView];
+}
+
 /*
 #pragma mark - Navigation
 
