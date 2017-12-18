@@ -1,0 +1,4 @@
+target ‘LargeTitle’ do
+  pod 'Masonry'
+  #pod 'Block-KVO'
+end
