@@ -1,5 +1,5 @@
 # LargeTitle
-类似iOS11大标题的效果
+viewcontroller分类实现类似iOS11大标题的效果
 
 ![image](https://github.com/liulishuo/LargeTitle/blob/master/Demo.gif)
 
